@@ -5,10 +5,10 @@
 
 ## Contacts: ##
 
-### Mitsevich.marina@gmail.com
-### +37529-703-77-58
-### Telegram - https://t.me/Poprotskaya_M
-### Discord - @Marina-Poprotskaya
+### e-mail: Mitsevich.marina@gmail.com
+### phone: +37529-703-77-58
+### Telegram: https://t.me/Poprotskaya_M
+### Discord: @Marina-Poprotskaya
 
 ## About me: ##
 
@@ -38,4 +38,4 @@
 
 <p>About my English level, according Training.by, where I passed an on-line test about two month ago, I have B1 level. But, as I said previously, I continue to study it. I have an English lesson with tutor twice a week.</p>
 
-<p>I’m glad to become a part of your great team!</p>
+### I’m glad to become a part of your great team! ###
