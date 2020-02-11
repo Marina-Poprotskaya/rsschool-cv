@@ -1,0 +1,134 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+body {
+    font-family: 'Roboto', 'Arial', sans-serif;
+}
+
+.container {
+    width: 80%;
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+hr {
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    background-color: rgb(109, 99, 99);
+}
+
+.about-me,
+.my-projects,
+.my-skills,
+.english-level {
+    line-height: 130%;
+}
+
+.about-me-wrapper ul,
+.my-skills ul {
+    list-style-position: inside;
+    list-style-type: circle;
+}
+
+.header-wrapper {
+    display: flex;
+}
+
+.header-wrapper img {
+    border-radius: 10px;
+}
+
+.header-wrapper img:hover {
+    box-shadow: 0 0 10px rgb(221, 210, 210);
+}
+
+.header-wrapper h2 {
+    font-size: 30px;
+
+    color: rgb(109, 99, 99); 
+}
+
+.header-wrapper ul {
+    margin-top: 20px;
+
+    line-height: 150%;
+
+    list-style-type: none;
+}
+
+.header-wrapper li a {
+    color: black;
+}
+
+.header-wrapper li a:hover {
+    text-decoration: underline;
+}
+
+.header-wrapper li {
+    padding-left: 40px;
+    margin-bottom: 10px;
+
+    font-size: 18px;
+}
+
+.header-wrapper li:first-child {
+    background: url(../img/email.png) no-repeat;
+    background-size: contain;
+}
+
+.header-wrapper li:nth-child(2) {
+    background: url(../img/telephone.png) no-repeat;
+    background-size: contain;
+}
+
+.header-wrapper li:nth-child(3) {
+    background: url(../img/telegram.png) no-repeat;
+    background-size: contain;
+}
+
+.header-wrapper li:nth-child(4) {
+    background: url(../img/discord.jpg) no-repeat;
+    background-size: contain;
+}
+
+.header-wrapper li:nth-child(5) {
+    background: url(../img/fb.png) no-repeat;
+    background-size: contain;
+}
+
+.header-wrapper li:last-child {
+    background: url(../img/lin.png) no-repeat;
+    background-size: contain;
+}
+
+.header-insert:last-child {
+    margin-left: 100px;
+}
+
+.container a {
+    font-size: 18px;
+
+    text-decoration: none;
+}
+
+.my-projects a:hover {
+    font-size: 19px;
+
+    color: rgb(58, 52, 52);
+  
+    text-decoration: underline;
+
+    transition: 0.3s linear;
+}
+
+
+
+
